@@ -1,0 +1,21 @@
+Version 0.9.0 BETA CI BUILD
+  New GUI.
+  New Camerawork.
+  Testing wardrobe possibility.
+  Testing mobile phone UI.
+  Buying/Selling/Renting can be done by website.
+  Retail offices integrated.
+Version 0.8.4 BETA CI BUILD
+  Adding interior references to house list.
+  Removing houses to allow more custom houses.
+  Adding custom house creation options.
+  Testing if controller keys can be added together with keyboard.
+  Starting the search for the websites.
+  Defining locations and interiors for Realtor Offices.
+Version 0.8.3 BETA CI BUILD
+  Fine tuning of save and exit mechanic in interiors.
+  Adding interiors to hotels and apartments.
+  Redefine interiors based on house type.
+Version 0.8.2 BETA CI BUILD
+  Overall cleanup and restructering of code.
+  Assigned interior to all houses.
