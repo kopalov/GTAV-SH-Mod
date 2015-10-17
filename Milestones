@@ -23,6 +23,8 @@
 `Version 0.8.2 BETA CI BUILD`
 - Overall cleanup and restructering of code.
 - Assigned interior to all houses.
+- Adding realtor locations.
+- Starting the rework of the GUI.
 
 `Version 0.8.0 BETA CI BUILD `
 - New houses added there are now 93 houses with most of them having parking spaces.
