@@ -10,6 +10,7 @@
 `Version 0.8.4 BETA CI BUILD`
 - Adding interior references to house list.
 - Removing houses to allow more custom houses.
+- Assigning interior to all remaining houses.
 - Adding custom house creation options.
 - Testing if controller keys can be added together with keyboard.
 - Starting the search for the websites.
@@ -19,12 +20,12 @@
 - Fine tuning of save and exit mechanic in interiors.
 - Adding interiors to hotels and apartments.
 - Redefine interiors based on house type.
+- Add basic realtor mechanics for test purposes.
+- Starting the rework of the GUI.
 
 `Version 0.8.2 BETA CI BUILD`
 - Overall cleanup and restructering of code.
-- Assigned interior to all houses.
-- Adding realtor locations.
-- Starting the rework of the GUI.
+- Added save mechanics for interiors.
 
 `Version 0.8.0 BETA CI BUILD `
 - New houses added there are now 93 houses with most of them having parking spaces.
