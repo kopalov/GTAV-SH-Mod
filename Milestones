@@ -1,42 +1,48 @@
 ### Milestones
+`Version 1.0 
+-[ ]- Buying/Selling/Renting can be done by website.
+
 `Version 0.9.0 BETA CI BUILD`
-- New GUI.
-- New Camerawork.
-- Testing wardrobe possibility.
-- Testing mobile phone UI.
-- Buying/Selling/Renting can be done by website.
-- Retail offices integrated.
+-[ ]- Finish GUI rework.
+-[ ]- Adding Camerawork.
+-[ ]- Testing mobile phone UI.
+
+`Version 0.8.5 BETA CI BUILD`
+-[ ]- Working retail offices integrated.
+-[ ]- Testing camerawork for retailers.
+-[ ]- Testing wardrobe possibility.
+-[ ]- Fix blinking text.
 
 `Version 0.8.4 BETA CI BUILD`
-- Adding interior references to house list.
-- Removing houses to allow more custom houses.
-- Assigning interior to all remaining houses.
-- Adding custom house creation options.
-- Testing if controller keys can be added together with keyboard.
-- Starting the search for the websites.
-- Defining locations and interiors for Realtor Offices.
+-[ ]- Adding interior references to house list.
+-[ ]- Removing houses to allow more custom houses.
+-[ ]- Assigning interior to all remaining houses.
+-[ ]- Adding custom house creation options.
+-[ ]- Testing if controller keys can be added together with keyboard.
+-[ ]- Starting the search for the websites.
 
 `Version 0.8.3 BETA CI BUILD`
-- Fine tuning of save and exit mechanic in interiors.
-- Adding interiors to hotels and apartments.
-- Redefine interiors based on house type.
-- Add basic realtor mechanics for test purposes.
-- Starting the rework of the GUI.
+-[ ]- Fine tuning of save and exit mechanic in interiors.
+-[ ]- Adding interiors to hotels and apartments.
+-[ ]- Redefine interiors based on house type.
+-[x]- Add basic realtor mechanics for test purposes.
+-[ ]- Starting the rework of the GUI.
+-[ ]- Defining locations and interiors for Realtor Offices.
+-[ ]- Adding new save spots for some interiors and wardrobe spot for all interiors.
 
 `Version 0.8.2 BETA CI BUILD`
-- Overall cleanup and restructering of code.
-- Added save mechanics for interiors.
+-[x]- Overall cleanup and restructering of code.
+-[x]- Added save mechanics for interiors.
 
 `Version 0.8.0 BETA CI BUILD `
-- New houses added there are now 93 houses with most of them having parking spaces.
-- Added interiors so now you can go inside the house.
-- Improved blinking text.
+-[x]- New houses added there are now 93 houses with most of them having parking spaces.
+-[x]- Added interiors so now you can go inside the house.
 
 `Version 0.7.8 CI BUILD`
-- Combining Kopalov and HennySmafter houses to a total of 93 houses with most of them having parking spaces.
+-[x]- Combining Kopalov and HennySmafter houses to a total of 93 houses with most of them having parking spaces.
 
 `Version 0.7.7 CI BUILD`
-- Added User Defined Keys for turning on/off the blips.
+-[x]- Added User Defined Keys for turning on/off the blips.
 
 `Version 0.7.6 CI BUILD`
-- Improved map blips.
+-[x]- Improved map blips.
