@@ -12,3 +12,9 @@
 ## Working RV Safepoint and Interiors<br>
 - Making both moving RV work as a safepoint with interior.<br>
 -- We need to get the interior from a trailer.<br><br>
+
+## Selling of houses<br>
+Houses are assigned a price for buying. Currently when it is sold you gain the same amount of money. No risk, No reward. So maybe this can be changed.<br><br>
+1. Adding costs for the realtor.<br>
+2. You select which realtor can sell it with all different prices but also different percentages in getting a big payout.<br><br>
+This way when you take the cheap realtor and are lucky you get a real big payout but when you are unlucky you make a huge loss.<br><br>
