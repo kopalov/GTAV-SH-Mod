@@ -14,16 +14,17 @@
 `Version 0.8.4 BETA CI BUILD`
 -[ ]- Removing houses to allow more custom houses.
 -[ ]- Assigning interior to all remaining houses.
--[ ]- Assigning each house coords and heading for camerawork.
 -[ ]- Working retail offices integrated.
 -[ ]- Testing if controller keys can be added together with keyboard.
 -[ ]- Starting the search for the websites.
 -[ ]- Adding mechanic to prevent npc spawn in interiors.
+-[ ]- Polishing code and bug fixing.
 
 `Version 0.8.3 BETA CI BUILD`
 -[x]- Fine tuning of save and exit mechanic in interiors.
 -[x]- Adding interiors to hotels and apartments.
 -[ ]- Redefine interiors based on house type.
+-[ ]- Assigning each house coords and heading for camerawork.
 -[x]- Add basic realtor mechanics for test purposes.
 -[x]- Starting the rework of the GUI.
 -[x]- Defining locations and interiors for Realtor Offices.
