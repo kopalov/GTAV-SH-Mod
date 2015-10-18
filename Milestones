@@ -18,6 +18,7 @@
 -[ ]- Working retail offices integrated.
 -[ ]- Testing if controller keys can be added together with keyboard.
 -[ ]- Starting the search for the websites.
+-[ ]- Adding mechanic to prevent npc spawn in interiors.
 
 `Version 0.8.3 BETA CI BUILD`
 -[x]- Fine tuning of save and exit mechanic in interiors.
