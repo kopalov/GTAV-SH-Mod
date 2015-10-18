@@ -4,20 +4,18 @@
 
 `Version 0.9.0 BETA CI BUILD`
 -[ ]- Finish GUI rework.
--[ ]- Adding Camerawork.
 -[ ]- Testing mobile phone UI.
 
 `Version 0.8.5 BETA CI BUILD`
--[ ]- Working retail offices integrated.
 -[ ]- Testing camerawork for retailers.
 -[ ]- Testing wardrobe possibility.
--[ ]- Fix blinking text.
+-[ ]- Adding Camerawork for houses.
 
 `Version 0.8.4 BETA CI BUILD`
--[ ]- Adding interior references to house list.
 -[ ]- Removing houses to allow more custom houses.
 -[ ]- Assigning interior to all remaining houses.
--[ ]- Adding custom house creation options.
+-[ ]- Assigning each house coords and heading for camerawork.
+-[ ]- Working retail offices integrated.
 -[ ]- Testing if controller keys can be added together with keyboard.
 -[ ]- Starting the search for the websites.
 
@@ -29,6 +27,7 @@
 -[x]- Starting the rework of the GUI.
 -[x]- Defining locations and interiors for Realtor Offices.
 -[ ]- Adding new save spots for some interiors and wardrobe spot for all interiors.
+-[ ]- Adding custom house creation options.
 
 `Version 0.8.2 BETA CI BUILD`
 -[x]- Overall cleanup and restructering of code.
