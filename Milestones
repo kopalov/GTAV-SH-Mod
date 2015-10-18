@@ -28,7 +28,7 @@
 -[x]- Starting the rework of the GUI.
 -[x]- Defining locations and interiors for Realtor Offices.
 -[ ]- Adding new save spots for some interiors and wardrobe spot for all interiors.
--[ ]- Adding custom house creation options.
+-[x]- Adding custom house creation options.
 
 `Version 0.8.2 BETA CI BUILD`
 -[x]- Overall cleanup and restructering of code.
