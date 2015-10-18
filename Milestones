@@ -22,12 +22,12 @@
 -[ ]- Starting the search for the websites.
 
 `Version 0.8.3 BETA CI BUILD`
--[ ]- Fine tuning of save and exit mechanic in interiors.
--[ ]- Adding interiors to hotels and apartments.
+-[x]- Fine tuning of save and exit mechanic in interiors.
+-[x]- Adding interiors to hotels and apartments.
 -[ ]- Redefine interiors based on house type.
 -[x]- Add basic realtor mechanics for test purposes.
--[ ]- Starting the rework of the GUI.
--[ ]- Defining locations and interiors for Realtor Offices.
+-[x]- Starting the rework of the GUI.
+-[x]- Defining locations and interiors for Realtor Offices.
 -[ ]- Adding new save spots for some interiors and wardrobe spot for all interiors.
 
 `Version 0.8.2 BETA CI BUILD`
