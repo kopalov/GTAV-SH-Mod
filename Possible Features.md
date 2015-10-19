@@ -18,3 +18,6 @@ Houses are assigned a price for buying. Currently when it is sold you gain the s
 1. Adding costs for the realtor.<br>
 2. You select which realtor can sell it with all different prices but also different percentages in getting a big payout.<br><br>
 This way when you take the cheap realtor and are lucky you get a real big payout but when you are unlucky you make a huge loss.<br><br>
+
+## Navigating to hotels<br>
+It would be very nice to make all hotel blips disappear. Then by the press of a button(internet maybe) you get a menu where you select the class of the hotel and then it creates a waypoint to the nearest hotel.
