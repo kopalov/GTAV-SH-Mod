@@ -23,7 +23,7 @@
 `Version 0.8.3 BETA CI BUILD`<br>
 -[x]- Fine tuning of save and exit mechanic in interiors.<br>
 -[x]- Adding interiors to hotels and apartments.<br>
--[ ]- Redefine interiors based on house type.<br>
+-[x]- Redefine interiors based on house type.<br>
 -[ ]- Assigning each house coords and heading for camerawork.<br>
 -[x]- Add basic realtor mechanics for test purposes.<br>
 -[x]- Starting the rework of the GUI.<br>
