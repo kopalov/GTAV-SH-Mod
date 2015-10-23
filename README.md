@@ -8,8 +8,15 @@ You can talk with us or report quick bugs on our chatroom<br>
 ## Download
 Download our current released version at: <a href="http://goo.gl/0BW9uD" target="_blank">http://goo.gl/0BW9uD</a>
 
-## About
-Information coming soon...
+## Features
+The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Houses and 40+ Hotels and Appartments.
+- Characters own their houses so they won't live together.
+- Multiple characters can live in the same hotel.
+- Realistic pricing depending on exteriors and locations.
+
+## Requirements
+Script Hook V: <a href="http://gtaforums.com/topic/788343-vrel-script-hook-v/" target="_blank">Go to download page</a><br>
+LUA plugin for Script Hook V: <a href="http://gtaforums.com/topic/789139-vrelhook-lua-plugin-for-script-hook-v/" target="_blank">Go to download page</a><br><br>
 
 ## Installation
 >This mod is using the persistence system. Therefore it is a necessity to specify the save location inside the `.lua` file<br>
