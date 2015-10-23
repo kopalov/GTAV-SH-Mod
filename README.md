@@ -19,8 +19,12 @@ Download our current released version at: http://goo.gl/0BW9uD
 Details are coming.
 
 ## Credits
-This mod is created by `Kopalov` and is the masterbrains behind this operation. Together with `HennySmafter` who is helping wherever possible this mod is getting better and better everyday.
+This mod is created by `Kopalov` with help from `HennySmafter`.
 
 ## Thanks
 We would like to give thanks to:
-Details are coming.
+Szabo who inspired us both in scripting for GTA 5. We also want to thank Alexander Blade, Headscript, Crosire and Rockstar Games who all deliver great products that combined unleashes the full potential of Grand Theft Auto V. Then finally we would like to give thanks to other modders who enable us to have different types of gameplay all the time. 
+Smokey, Shep761, Sakis25, faztsquirrel, haws1290, Daxwolf.
+
+Did we forgot someone or you? Then please let us know.
+
