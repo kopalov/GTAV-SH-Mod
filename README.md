@@ -42,20 +42,16 @@ Go to any of the houses/hotels and appartments on the map. Depending on type of 
 alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></a>
 
 ## Screenshots
-<img src="http://i61.tinypic.com/5mwzh1.jpg" width="400" style="display:inline-block;">
-<img src="http://i59.tinypic.com/23t083o.jpg" width="400" style="display:inline-block;">
-
-<img src="http://i62.tinypic.com/2em0l6a.jpg" width="400" style="display:inline-block;">
-<img src="https://files.gitter.im/hennysmafter/fVBF/SafehouseGameplay1.jpg" width="400" style="display:inline-block;">
-
-<img src="https://files.gitter.im/hennysmafter/U60X/SafehouseGameplay2.jpg" width="400" style="display:inline-block;">
-<img src="https://files.gitter.im/hennysmafter/XumJ/SafehouseGameplay3.jpg" width="400" style="display:inline-block;">
-
-<img src="https://files.gitter.im/hennysmafter/xoiC/SafehouseGameplay4.jpg" width="400" style="display:inline-block;">
-<img src="https://files.gitter.im/hennysmafter/zIaz/SafehouseGameplay5.jpg" width="400" style="display:inline-block;">
-
-<img src="https://files.gitter.im/hennysmafter/N8yN/SafehouseGameplay6.jpg" width="400" style="display:inline-block;">
-<img src="https://files.gitter.im/hennysmafter/nlv0/SafehouseGameplay7.jpg" width="400" style="display:inline-block;">
+<img src="http://i61.tinypic.com/5mwzh1.jpg" width="350" style="display:inline-block;">
+<img src="http://i59.tinypic.com/23t083o.jpg" width="350" style="display:inline-block;">
+<img src="http://i62.tinypic.com/2em0l6a.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/fVBF/SafehouseGameplay1.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/U60X/SafehouseGameplay2.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/XumJ/SafehouseGameplay3.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/xoiC/SafehouseGameplay4.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/zIaz/SafehouseGameplay5.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/N8yN/SafehouseGameplay6.jpg" width="350" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/nlv0/SafehouseGameplay7.jpg" width="350" style="display:inline-block;">
 
 ## Credits
 This mod is created by `Kopalov` with help from `HennySmafter`.
