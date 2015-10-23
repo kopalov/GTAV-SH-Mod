@@ -13,6 +13,7 @@ The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Hous
 - Characters own their houses so they won't live together.
 - Multiple characters can live in the same hotel.
 - Realistic pricing depending on exteriors and locations.
+- Lots of properties with parking spaces
 
 ## Requirements
 Script Hook V: <a href="http://gtaforums.com/topic/788343-vrel-script-hook-v/" target="_blank">Go to download page</a><br>
@@ -33,10 +34,28 @@ LUA plugin for Script Hook V: <a href="http://gtaforums.com/topic/789139-vrelhoo
 ## Instructions
 Go to any of the houses/hotels and appartments on the map. Depending on type of location you will get a screen that let's you choose to buy or rent set location. After purchasing a location you can decide to sell it by going to the house and select the option sell house.
 
-## Teaser video
+>This mod saves your heading so it is important that during the creation of a custom savehouse you are facing towards the direction that you want to be spawned at. 
+
+## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lvBP1mIg7fQ
 " target="_blank"><img src="http://i.imgur.com/Pi3e3LX.jpg" 
 alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></a>
+
+## Screenshots
+<img src="http://i61.tinypic.com/5mwzh1.jpg" width="400" style="display:inline-block;">
+<img src="http://i59.tinypic.com/23t083o.jpg" width="400" style="display:inline-block;">
+
+<img src="http://i62.tinypic.com/2em0l6a.jpg" width="400" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/fVBF/SafehouseGameplay1.jpg" width="400" style="display:inline-block;">
+
+<img src="https://files.gitter.im/hennysmafter/U60X/SafehouseGameplay2.jpg" width="400" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/XumJ/SafehouseGameplay3.jpg" width="400" style="display:inline-block;">
+
+<img src="https://files.gitter.im/hennysmafter/xoiC/SafehouseGameplay4.jpg" width="400" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/zIaz/SafehouseGameplay5.jpg" width="400" style="display:inline-block;">
+
+<img src="https://files.gitter.im/hennysmafter/N8yN/SafehouseGameplay6.jpg" width="400" style="display:inline-block;">
+<img src="https://files.gitter.im/hennysmafter/nlv0/SafehouseGameplay7.jpg" width="400" style="display:inline-block;">
 
 ## Credits
 This mod is created by `Kopalov` with help from `HennySmafter`.
