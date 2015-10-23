@@ -1,11 +1,9 @@
 # The Savehouse Mod for GTA V
-
-[![Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The only Real Estate mod where you can Buy/Rent/Sell houses, appartments and hotels in Los Santos.
 
 ## Chat
 You can talk with us or report quick bugs on our chatroom<br>
-<a href="https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667" alt="Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod" data-canonical-src="https://badges.gitter.im/Join%20Chat.svg" style="max-width:100%;"></a>
+[![Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Download
 Download our current released version at: http://goo.gl/0BW9uD
