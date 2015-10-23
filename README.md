@@ -5,7 +5,7 @@ The only Real Estate mod where you can Buy/Rent/Sell houses, appartments and hot
 Download our current released version at: http://goo.gl/0BW9uD
 
 ## Installation
->>This mod is using the persistence system. Therefore it is a necessity to specify the save location inside the `.lua` file<br>
+>This mod is using the persistence system. Therefore it is a necessity to specify the save location inside the `.lua` file<br>
 
 1. Download our latest stable version.
 2. Open the .lua file.
