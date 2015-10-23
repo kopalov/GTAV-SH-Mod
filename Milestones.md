@@ -4,7 +4,7 @@
 
 `Version 0.9.0 BETA CI BUILD`<br>
 -[ ]- Finish GUI rework.<br>
--[ ]- Testing mobile phone UI.<br>
+-[ ]- Testing mobile phone UI.<br><br>
 
 `Version 0.8.5 BETA CI BUILD`<br>
 -[ ]- Testing camerawork for retailers.<br>
