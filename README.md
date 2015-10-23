@@ -29,7 +29,7 @@ Go to any of the houses/hotels and appartments on the map. Depending on type of 
 ## Teaser video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lvBP1mIg7fQ
 " target="_blank"><img src="http://i.imgur.com/Pi3e3LX.jpg" 
-alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="0" /></a>
+alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></a>
 
 ## Credits
 This mod is created by `Kopalov` with help from `HennySmafter`.
