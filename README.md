@@ -6,7 +6,7 @@ You can talk with us or report quick bugs on our chatroom<br>
 [![Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Download
-Download our current released version at: http://goo.gl/0BW9uD
+Download our current released version at: <a href="http://goo.gl/0BW9uD" target="_blank">http://goo.gl/0BW9uD</a>
 
 ## About
 Information coming soon...
@@ -25,6 +25,11 @@ Information coming soon...
 
 ## Instructions
 Go to any of the houses/hotels and appartments on the map. Depending on type of location you will get a screen that let's you choose to buy or rent set location. After purchasing a location you can decide to sell it by going to the house and select the option sell house.
+
+## Teaser video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lvBP1mIg7fQ
+" target="_blank"><img src="http://tinypic.com/r/358t7yd/8" 
+alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="0" /></a>
 
 ## Credits
 This mod is created by `Kopalov` with help from `HennySmafter`.
