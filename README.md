@@ -15,3 +15,4 @@ This mod is created by `Kopalov` and is the masterbrains behind this operation. 
 
 ## Thanks
 We would like to give thanks to:
+Details are coming.
