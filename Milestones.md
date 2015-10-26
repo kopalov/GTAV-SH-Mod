@@ -9,12 +9,13 @@
 `Version 0.8.5 BETA CI BUILD`<br>
 -[ ]- Testing camerawork for retailers.<br>
 -[ ]- Testing wardrobe possibility.<br>
--[ ]- Adding Camerawork for houses.<br><br>
+-[x]- Adding Camerawork for houses.<br>
+-[ ]- Adding Camerawork for hotels.<br><br>
 
 `Version 0.8.4 BETA CI BUILD`<br>
--[ ]- Removing houses to allow more custom houses.<br>
+-[x]- Removing houses to allow more custom houses.<br>
 -[ ]- Assigning interior to all remaining houses.<br>
--[ ]- Working retail offices integrated.<br>
+-[x]- Working retail offices integrated.<br>
 -[ ]- Testing if controller keys can be added together with keyboard.<br>
 -[ ]- Starting the search for the websites.<br>
 -[ ]- Adding mechanic to prevent npc spawn in interiors.<br>
@@ -28,7 +29,7 @@
 -[x]- Add basic realtor mechanics for test purposes.<br>
 -[x]- Starting the rework of the GUI.<br>
 -[x]- Defining locations and interiors for Realtor Offices.<br>
--[ ]- Adding new save spots for some interiors and wardrobe spot for all interiors.<br>
+-[x]- Adding new save spots for some interiors and wardrobe spot for all interiors.<br>
 -[x]- Adding custom house creation options.<br><br>
 
 `Version 0.8.2 BETA CI BUILD`<br>
