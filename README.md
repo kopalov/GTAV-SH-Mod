@@ -16,8 +16,11 @@ The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Hous
 - Lots of properties with parking spaces
 
 ## Requirements
-Script Hook V: <a href="http://gtaforums.com/topic/788343-vrel-script-hook-v/" target="_blank">Go to download page</a><br>
-LUA plugin for Script Hook V: <a href="http://gtaforums.com/topic/789139-vrelhook-lua-plugin-for-script-hook-v/" target="_blank">Go to download page</a><br><br>
+###Script Hook V<br>
+Download and install Script HookV: <a href="http://gtaforums.com/topic/788343-vrel-script-hook-v/" target="_blank">Go to download page</a><br><br>
+###LUA plugin for Script Hook V<br>
+Download and install LUA Plugin for Script HookV: <a href="https://github.com/gallexme/LuaPlugin-GTAV" target="_blank">Go to download page</a><br>
+`(You need LUA.asi file. Put it in your GTA V main directory)`<br><br>
 
 ## Installation
 >This mod is using the persistence system. Therefore it is a necessity to specify the save location inside the `.lua` file<br>
