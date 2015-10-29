@@ -3,7 +3,7 @@ The only Real Estate mod where you can Buy/Rent/Sell houses, appartments and hot
 
 ## Chat
 You can talk with us or report quick bugs on our chatroom<br>
-[![Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/prexis74/GTAV-SH-Mod](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prexis74/GTAV-SH-Mod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)<br>
 `Please keep in mind that we work on this mod in our free time. Same goes with support we try to be on the chat as much as possible!`
 
 ## Download
