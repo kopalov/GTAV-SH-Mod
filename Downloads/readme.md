@@ -10,4 +10,4 @@
 0.8.2 = Unstable<br>
 0.8.3 = Unstable<br>
 0.8.4 = Unstable<br>
-0.8.5 = `Stable (Not yet released!)`<br>
+0.8.5 = `Stable`<br>
