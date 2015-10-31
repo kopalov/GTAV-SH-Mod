@@ -8,6 +8,7 @@ You can talk with us or report quick bugs on our chatroom<br>
 
 ## Download
 Download our current released version from MediaFire: <a href="http://www.mediafire.com/download/2w8s7bdos2sg21e/Savehouse_mod_0.8.5.zip" target="_blank">The Safehouse Mod v0.8.5</a>
+*In case of updating we recommend strongely to <a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Updating">read our wiki page</a> regarding this subject.*
 
 ## Features
 The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Houses and 40+ Hotels and Apartments.
