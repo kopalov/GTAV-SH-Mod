@@ -7,7 +7,7 @@ You can talk with us or report quick bugs on our chatroom<br>
 *Please keep in mind that we work on this mod in our free time.<br> Same goes with support we try to be on the chat as much as possible!*
 
 ## Download
-Download our current released version from MediaFire: <a href="http://www.mediafire.com/download/2w8s7bdos2sg21e/Savehouse_mod_0.8.5.zip" target="_blank">The Safehouse Mod v0.8.5</a><br><br>
+Download our current released version from MediaFire: <a href="http://www.mediafire.com/download/saech2iud9gu5f9/Savehouse_mod_086.zip" target="_blank">The Safehouse Mod v0.8.6</a><br><br>
 *In case of updating we recommend strongly to <a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Updating">read our wiki page</a> regarding this subject.*
 
 ## Features
