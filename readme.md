@@ -29,7 +29,7 @@ Go to any of the houses/hotels and appartments on the map. Depending on type of 
 >This mod saves your heading so it is important that during the creation of a custom savehouse you are facing towards the direction that you want to be spawned at. 
 
 ## Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lvBP1mIg7fQ
+<a href="https://www.youtube.com/watch?v=NzIfGvNsgeo
 " target="_blank"><img src="http://i.imgur.com/Pi3e3LX.jpg" 
 alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></a>
 
