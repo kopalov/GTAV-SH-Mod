@@ -17,26 +17,11 @@ The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Hous
 - Realistic pricing depending on exteriors and locations.
 - Lots of properties with parking spaces
 
-## Requirements
-###Script Hook V<br>
-Download and install Script HookV: <a href="http://gtaforums.com/topic/788343-vrel-script-hook-v/" target="_blank">Go to download page</a><br><br>
-###LUA plugin for Script Hook V<br>
-Download and install LUA Plugin for Script HookV: <a href="https://github.com/gallexme/LuaPlugin-GTAV" target="_blank">Go to download page</a><br>
-`You need LUA.asi file. Put it in your GTA V main directory`<br><br>
+<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Installation">SEE WIKI FOR INSTALLATION INSTRUCTIONS</a>
 
-## Installation
->This mod is using the persistence system. Therefore it is a necessity to specify the save location inside the `.lua` file<br>
+<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Updating">UPDATING FROM PREVIOUS VERSION? READ THIS!</a>
 
-1. Download our latest stable version.
-2. Open the .lua file.
-3. Scroll down to approximately line: 10.
-4. Change your location here! `Use forward(/) slashes only and try to avoid symbols, spaces are allowed`.
-5. Change the settings inside `Mod Options` to your liking and save.
-6. Copy/paste the safehouse###.lua file inside `GTA5_Directory/scripts/addins/`.
-7. Copy/paste shGUI.lua inside `GTA5_Directory/scripts/libs`.
-8. Start GTA and enjoy the mod.
-
-`Make sure your save location is NOT read only! Right click the folder, go to properties and untick 'read only'`
+<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Controls">FOR CONTROLS VISIT THIS LINK</a>
 
 ## Instructions
 Go to any of the houses/hotels and appartments on the map. Depending on type of location you will get a screen that let's you choose to buy or rent set location. After purchasing a location you can decide to sell it by going to the house and select the option sell house.
