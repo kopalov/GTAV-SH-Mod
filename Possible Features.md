@@ -24,3 +24,9 @@ It would be very nice to make all hotel blips disappear. Then by the press of a 
 
 ## For sale signs<br>
 A nice feature would be to have for sale signs by the houses/apartments that disappear when the property is bought. 
+
+## Working objects inside interiors<br>
+A lot of people have been asking for working tv's, wardrobe's and other objects that you could normally interact with. So it would be nice to add this to the mod.
+
+## Working garages.<br>
+It would be really great if we could turn some of the ingame garages into real working garages. We need to be able to remove the garagedoor. When Map Editor allows this we can add our own door and make it dynamic leaves us with only the interior walls to build.
