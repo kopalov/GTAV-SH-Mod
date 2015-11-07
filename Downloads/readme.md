@@ -11,3 +11,4 @@
 0.8.3 = Unstable<br>
 0.8.4 = Unstable<br>
 0.8.5 = `Stable`<br>
+0.8.6 = `Stable`<br>
