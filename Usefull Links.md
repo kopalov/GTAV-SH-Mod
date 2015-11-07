@@ -5,6 +5,9 @@ https://docs.google.com/spreadsheets/d/1xxR-B8ETCmO_OPa5KKsqqNSTirgLQdHH2kboRW5E
 http://gtaforums.com/topic/795824-q-mobile-phone-text-message/<br>
 http://gtaforums.com/topic/816868-player-passenger-in-the-backseat/<br>
 
+// Look into phone mechanics in this
+https://www.gta5-mods.com/scripts/tax-and-bill-payments/<br>
+
 //
 Ped playerPed = PLAYER::PLAYER_PED_ID();
 
