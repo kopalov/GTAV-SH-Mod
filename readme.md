@@ -7,26 +7,26 @@ You can talk with us or report quick bugs on our chatroom<br>
 *Please keep in mind that we work on this mod in our free time.<br> Same goes with support we try to be on the chat as much as possible!*
 
 ## Download
-Download our current released version from MediaFire: <a href="http://www.mediafire.com/download/ks9uqsutrvr2f7s/savehouse_mod_087.zip" target="_blank">The Safehouse Mod v0.8.7</a><br><br>
-*In case of updating we recommend strongly to <a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Updating">read our wiki page</a> regarding this subject.*
+Download our current released version: <a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">The Safehouse Mod Released Versions</a><br><br>
 
 ## Features
-The mod that puts Real Estate back into GTA V Single Player, Enjoy over 60+ Houses and 40+ Hotels and Apartments.
+- 69 houses, 43 hotels and apartments for rent.
+- Each house, apartment or hotel suite has interior (currently 15 interiors in total)
+// Please note that R* did not make many interiors for GTA V. We are adding custom-built interiors in each version, but those take some time to build and can lower your FPS count when nearby.
+- Custom savehouse or save spot can be created anywhere on the map.
 - Characters own their houses so they won't live together.
 - Multiple characters can live in the same hotel.
 - Realistic pricing depending on exteriors and locations.
-- Lots of properties with parking spaces
 
-<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Installation">SEE WIKI FOR INSTALLATION INSTRUCTIONS</a>
+<a href="https://github.com/kopalov/GTAV-SH-Mod/wiki/Installation">SEE WIKI FOR INSTALLATION INSTRUCTIONS</a>
 
-<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Updating">UPDATING FROM PREVIOUS VERSION? READ THIS!</a>
-
-<a href="https://github.com/prexis74/GTAV-SH-Mod/wiki/Controls">FOR CONTROLS VISIT THIS LINK</a>
+<a href="https://github.com/kopalov/GTAV-SH-Mod/wiki/Controls">FOR CONTROLS VISIT THIS LINK</a>
 
 ## Instructions
-Go to any of the houses/hotels and appartments on the map. Depending on type of location you will get a screen that let's you choose to buy or rent set location. After purchasing a location you can decide to sell it by going to the house and select the option sell house.
+Go to real estate office (white suitcase icon on the map) to buy/sell houses or to any hotel/apartment for rent and approach the door.
 
->This mod saves your heading so it is important that during the creation of a custom savehouse you are facing towards the direction that you want to be spawned at. 
+Press Ctrl+Num1 to create custom savehouse or save spot.
+(it is important that during the creation you are facing towards the direction that you want to be spawned at)
 
 ## Video
 <a href="https://www.youtube.com/watch?v=NzIfGvNsgeo
