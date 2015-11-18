@@ -11,7 +11,9 @@ You can talk with us or report quick bugs on our chatroom<br>
 Download our latest release <a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">here</a>.
 
 ## Features
-- 69 houses, 43 hotels and apartments for rent.
+- **Real Estate Office** Purchase and sell houses at the real estate office in Rockford Hills (Briefcase Symbol)
+- **Houses** With the total of 69 houses there will be endless ways to replay the game.
+- 43 hotels and apartments for rent.
 - Each house, apartment or hotel suite has interior (currently 15 interiors in total)
 // Please note that R* did not make many interiors for GTA V. We are adding custom-built interiors in each version, but those take some time to build and can lower your FPS count when nearby.
 - Custom savehouse or save spot can be created anywhere on the map.
