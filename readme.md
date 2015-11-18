@@ -1,5 +1,5 @@
 # The Savehouse Mod for GTA V!
-The first Real Estate mod where you can buy and sell houses, rent appartments and hotels in Los Santos.
+The first Real Estate mod where you can buy and sell houses, rent appartments and hotels in Los Santos.</br>
 Created by `Kopalov` and `Henny Smafter`.
 
 ## Chat
