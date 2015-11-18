@@ -23,16 +23,15 @@ Download our latest release <a href="https://github.com/kopalov/GTAV-SH-Mod/rele
 
 <a href="https://github.com/kopalov/GTAV-SH-Mod/wiki/Controls">FOR CONTROLS VISIT THIS LINK</a>
 
-## Instructions
-Go to real estate office (white suitcase icon on the map) to buy/sell houses or to any hotel/apartment for rent and approach the door.
-
-Press Ctrl+Num1 to create custom savehouse or save spot.
-(it is important that during the creation you are facing towards the direction that you want to be spawned at)
-
-## Video
+## Gameplay Video
 <a href="https://www.youtube.com/watch?v=NzIfGvNsgeo
 " target="_blank"><img src="http://i.imgur.com/Pi3e3LX.jpg" 
 alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></a>
+
+## Installation Instructions Video
+<a href="https://www.youtube.com/watch?v=-6lMm9tqMBM
+" target="_blank"><img src="https://files.gitter.im/hennysmafter/UQLI/GTA_Savehouse_088_3.jpg" 
+alt="GTA 5 Savehouse Mod Video Poster" width="711" height="400" border="10" /></a>
 
 ## Screenshots
 <img src="http://i61.tinypic.com/5mwzh1.jpg" width="350" style="display:inline-block;">
@@ -52,4 +51,3 @@ Szabo who inspired us both in scripting for GTA 5. We also want to thank Alexand
 Smokey, Shep761, Sakis25, faztsquirrel, haws1290, Daxwolf.
 
 Did we forgot someone or you? Then please let us know.
-
