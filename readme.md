@@ -7,7 +7,7 @@ You can talk with us or report quick bugs on our chatroom<br>
 *Please keep in mind that we work on this mod in our free time.<br> Same goes with support we try to be on the chat as much as possible!*
 
 ## Download
-Download our latest release: <a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">Released Versions</a><br><br>
+Download our latest <a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">release</a><br>.
 
 ## Features
 - 69 houses, 43 hotels and apartments for rent.
