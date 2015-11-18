@@ -13,13 +13,15 @@ Download our latest release <a href="https://github.com/kopalov/GTAV-SH-Mod/rele
 ## Features
 - **Real Estate Office** Purchase and sell houses at the real estate office in Rockford Hills (Briefcase Symbol)
 - **Houses** With the total of 69 houses there will be endless ways to replay the game.
-- 43 hotels and apartments for rent.
-- Each house, apartment or hotel suite has interior (currently 15 interiors in total)
-// Please note that R* did not make many interiors for GTA V. We are adding custom-built interiors in each version, but those take some time to build and can lower your FPS count when nearby.
-- Custom savehouse or save spot can be created anywhere on the map.
-- Characters own their houses so they won't live together.
-- Multiple characters can live in the same hotel.
-- Realistic pricing depending on exteriors and locations.
+- **Hotels and Apartments** There are 43 hotels and apartments available for rent with varying costs and durations.
+- **Interiors** Each house, apartment or hotel suite has a interior (currently there are 15 interiors in total)
+- **Custom Interiors** We are developing custom interiors some will be based on location with working windows and some can be used everywhere. Even in your Custom Savehouse!<br>
+*Please note that R* *did not make many interiors for GTA V. We are adding custom-built interiors in each version, but those take some time to build and can lower your FPS count when nearby.*
+- **Custom Savehouse** Don't like any of the houses we provided then create a custom savehouse and assign the interior you want anywhere on the map.
+- **Custom Savespot** Created your own custom map and want to enjoy our mod with it then create your own custom savespot.
+- **No Grouping** Characters own their houses so they won't live together.
+- **Multiple characters** can live in the same hotel.
+- **Realistic pricing** depending on exteriors and locations.
 
 <a href="https://github.com/kopalov/GTAV-SH-Mod/wiki/Installation">SEE WIKI FOR INSTALLATION INSTRUCTIONS</a>
 
