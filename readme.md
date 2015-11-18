@@ -1,5 +1,6 @@
 # The Savehouse Mod for GTA V!
 The first Real Estate mod where you can buy and sell houses, rent appartments and hotels in Los Santos.
+Created by `Kopalov` and `Henny Smafter`.
 
 ## Chat
 You can talk with us or report quick bugs on our chatroom<br>
@@ -7,7 +8,7 @@ You can talk with us or report quick bugs on our chatroom<br>
 *Please keep in mind that we work on this mod in our free time.<br> Same goes with support we try to be on the chat as much as possible!*
 
 ## Download
-Download our latest <a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">release</a>.
+Download our latest release<a href="https://github.com/kopalov/GTAV-SH-Mod/releases" target="_blank">here</a>.
 
 ## Features
 - 69 houses, 43 hotels and apartments for rent.
@@ -44,9 +45,6 @@ alt="GTA 5 Safehouse Mod Video Poster" width="711" height="400" border="10" /></
 <img src="https://files.gitter.im/hennysmafter/zIaz/SafehouseGameplay5.jpg" width="350" style="display:inline-block;">
 <img src="https://files.gitter.im/hennysmafter/N8yN/SafehouseGameplay6.jpg" width="350" style="display:inline-block;">
 <img src="https://files.gitter.im/hennysmafter/nlv0/SafehouseGameplay7.jpg" width="350" style="display:inline-block;">
-
-## Credits
-This mod is created by `Kopalov` with help from `HennySmafter`.
 
 ## Thanks
 We would like to give thanks to:
