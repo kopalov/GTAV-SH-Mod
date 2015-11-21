@@ -22,7 +22,7 @@ This way when you take the cheap realtor and are lucky you get a real big payout
 ## Navigating to hotels<br>
 It would be very nice to make all hotel blips disappear. Then by the press of a button(internet maybe) you get a menu where you select the class of the hotel and then it creates a waypoint to the nearest hotel.
 
-## For sale signs<br>
+## For sale signs.<br>
 A nice feature would be to have for sale signs by the houses/apartments that disappear when the property is bought. 
 
 ## Working objects inside interiors<br>
