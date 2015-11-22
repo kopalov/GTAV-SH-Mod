@@ -1,1 +1,1 @@
-# dir for future SH Mod conversion to C# 
+Directory for future SH Mod conversion to C#
